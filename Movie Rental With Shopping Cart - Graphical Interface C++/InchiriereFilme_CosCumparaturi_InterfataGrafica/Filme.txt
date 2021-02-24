@@ -1,0 +1,10 @@
+Terminator,SF,84,Arnold Schwarzenegger
+Passengers,romantic,11,Jennifer Lawrence
+Colonia,history,14,Emma Watson
+Inception,thriller,16,Leonardo DiCaprio
+Oblivion,action,15,Tom Cruise
+Nerve,crime,19,Emma Roberts
+Noah,biblical,99,Russel Crowe
+Titanic,drama,98,Leonardo DiCaprio
+Bohemian Rhapsody,drama,18,Rami Malek
+w,SF,99,Matthew McConaughey
