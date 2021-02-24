@@ -3,7 +3,7 @@
 <ul>
   
   <li>
-      <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Movie%20Rental%20With%20Shopping%20Cart%20-%20C%2B%2B"> 
+      <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Movie%20Rental%20With%20Shopping%20Cart%20-%20Graphical%20Interface%20C%2B%2B"> 
 			   Movie Rental With Shopping Cart - Graphical Interface C++
       </a>
 </li>
