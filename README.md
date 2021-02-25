@@ -1,10 +1,10 @@
 ### C - C++ Projects
   
 <ul>
-  
-  <li>
+ <li>
       <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Movie%20Rental%20With%20Shopping%20Cart%20-%20Graphical%20Interface%20C%2B%2B"> 
-			   Movie Rental With Shopping Cart - Graphical Interface C++
+			  Movie Rental With Shopping Cart - Graphical Interface C++
+        <img src="https://user-images.githubusercontent.com/57533863/109113565-20b34380-7745-11eb-8c0c-e2f546f7a3fa.png">
       </a>
 </li>
   
