@@ -9,25 +9,25 @@
 </li>
   
   <li>
-      <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Movie%20Rental%20With%20Shopping%20Cart%20-%20C%2B%2B"> 
+      <a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects/tree/main/Movie%20Rental%20With%20Shopping%20Cart%20-%20C%2B%2B"> 
 			  Movie Rental With Shopping Cart - C++
       </a>
 </li>
 	
 <li>
-      <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Electronics%20Store%20%20-%20C"> 
+      <a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects/tree/main/Electronics%20Store%20%20-%20C"> 
 			  Electronics Store - C
       </a>
 </li>
 
 <li>
-      <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Expense%20Management%20-%20Undo%20in%20C"> 
+      <a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects/tree/main/Expense%20Management%20-%20Undo%20in%20C"> 
 			  Expense Management - Undo in C
       </a>
 </li>
 
  <li>
-      <a href="https://github.com/Laura-ElenaOlaru/Projects/tree/master/C%20-%20C%2B%2B%20Projects/Data%20Structures%20And%20Algorithms%20-%20C%2B%2B"> 
+      <a href="https://github.com/Laura-ElenaOlaru/C-Cpp-Projects/tree/main/Data%20Structures%20And%20Algorithms%20-%20C%2B%2B"> 
 			  Data Strucutres And Algorithms - C++
       </a>
 </li>
